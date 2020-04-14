@@ -1,0 +1,3 @@
+/home/codefather/CLionProjects/UGC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/codefather/CLionProjects/UGC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/codefather/CLionProjects/UGC/cmake-build-debug/CMakeFiles/UGC.dir
